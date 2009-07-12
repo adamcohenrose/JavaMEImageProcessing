@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JVM 1.5"/>
+	<classpathentry kind="lib" path="/private/var/cache/maven/jmock/jmock2/jars/cglib-nodep-2.1_3-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/private/var/cache/maven/jmock/jmock2/jars/hamcrest-core-1.1-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/private/var/cache/maven/jmock/jmock2/jars/hamcrest-library-1.1-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/private/var/cache/maven/jmock/jmock2/jars/jmock-2.5.1-2.5.1.jar"/>
+	<classpathentry kind="lib" path="/private/var/cache/maven/junit/junit/jars/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="/private/var/cache/maven/jmock/jmock2/jars/jmock-junit3-2.5.1-2.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
